@@ -3,11 +3,14 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 import { NavLink } from "react-router-dom";
 import "../../index.css"
+import { About } from "../About";
 export const Navigation = () => {
   
   return (
       <>
+      
     <nav className="navbar">
+      
     <h1 id="avatarName">😃Sean Elliott</h1>
       <NavLink to="/About" >About</NavLink>
       <NavLink to="/Projects">Projects</NavLink>
