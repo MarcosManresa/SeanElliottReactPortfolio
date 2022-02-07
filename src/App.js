@@ -17,7 +17,7 @@ function App() {
         <Navigation />
         <Routes>
           {/*About component is displayed*/}
-          <Route path="/" element={<About />} />
+          <Route path="/ReactPortfolio" element={<About />} />
 
           <Route path="/About" element={<About />} />
           <Route path="/Contact" element={<Contact />} />
