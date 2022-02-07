@@ -45,4 +45,4 @@
  ![portfolioImage](https://user-images.githubusercontent.com/89947920/152722168-0190baa4-a63d-4a1e-b92c-b1bb2eb60d82.png)
 
 
-  Link to application: http://sean-elliott-97.github.io/ReactPortfolio
+  Link to application: https://sean-elliott-97.github.io/SeanElliottReactPortfolio/
