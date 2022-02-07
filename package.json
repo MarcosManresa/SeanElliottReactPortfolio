@@ -1,7 +1,7 @@
 {
   "name": "sean-elliott-react-portfolio",
   "version": "0.1.0",
-  "homepage": "http://sean-elliott-97.github.io/ReactPortfolio",
+  "homepage": "http://sean-elliott-97.github.io/SeanElliottReactPortfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",

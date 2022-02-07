@@ -21,7 +21,7 @@ function App() {
         <Routes>
           {/*About component is displayed*/}
           <Route path="/"  element={<About/>}/>
-          <Route path="/ReactPortfolio"  element={<About/>}/>
+          <Route path="/SeanElliottReactPortfolio"  element={<About/>}/>
           <Route path="/About" element={<About />} />
           <Route path="/Contact" element={<Contact />} />
           <Route path="/Resume" element={<Resume />} />
