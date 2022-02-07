@@ -3,6 +3,9 @@ import React, { useState } from 'react';
 import { validateEmail } from '../../utils/helpers';
 
 export const Contact=()=> {
+  //handles the contact form
+  //with name and email inputs
+  //and a submit button
   const [formState, setFormState] = useState({ name: '', email: '', message: '' });
 
   const [errorMessage, setErrorMessage] = useState('');

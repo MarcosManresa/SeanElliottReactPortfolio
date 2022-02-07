@@ -1,5 +1,6 @@
 import React from "react";
 export const About = () => {
+  //handles the about me section
   return (
     <>
     <title>About</title>

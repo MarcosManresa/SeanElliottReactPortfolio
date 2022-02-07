@@ -3,9 +3,9 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 import { NavLink } from "react-router-dom";
 import "../../index.css"
-import { About } from "../About";
+
 export const Navigation = () => {
-  
+  //handles the navbar
   return (
       <>
       

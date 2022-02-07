@@ -11,6 +11,8 @@ import { Footer } from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.css";
 
 function App() {
+  //handles routes/paths within the application
+  //selects element based on link clicked
   return (
     <section>
       <Router>

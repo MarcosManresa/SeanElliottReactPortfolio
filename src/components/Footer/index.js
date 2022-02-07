@@ -1,5 +1,6 @@
 import React from "react";
 export const Footer = () => {
+  //handles a footer across all pages
   return (< >
     
    <footer className="footer column">

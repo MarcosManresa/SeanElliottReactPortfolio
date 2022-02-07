@@ -2,6 +2,8 @@ import React from "react";
 import { Card } from "react-bootstrap";
 
 export const Projects = () => {
+  //array of objects for application
+  //renders cards for each application included in array of objects
   const applications = [
     {
       name: "DidYouSee",

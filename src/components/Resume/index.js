@@ -1,5 +1,6 @@
 import React from "react";
 export const Resume = () => {
+  //handles an image for resume and download link for pdf of resume
   return (<>
   <div className="sectionHeader" >
     <title>Resume</title>
